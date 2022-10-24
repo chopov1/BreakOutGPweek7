@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/SCHOOL/Fall 2022/GameProgramming/BreakOutGPweek7/MonoGameLibrary/Content/Arial.spritefont</SourceFile>
+  <SourceTime>2022-10-09T02:12:58.2031061-05:00</SourceTime>
+  <DestFile>D:/SCHOOL/Fall 2022/GameProgramming/BreakOutGPweek7/MonoGameLibrary/Content/bin/DesktopGL/Content/Arial.xnb</DestFile>
+  <DestTime>2022-10-24T14:40:44.9070422-05:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-09-23T16:55:52-05:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-09-23T16:55:52-05:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
